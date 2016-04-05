@@ -1,5 +1,5 @@
-#Self-study Bootcamp programing
+#Self-study Code Bootcamp 
 
-This is a repository to storage all teste- hands ondone during a self-study code bootcamp.
+This is a repository to storage all teste/ hands-on done during bootcamp programing.
 
-For more informations, check contents, tutorials, how-to detailed in the link [tatixaviersouza.com.br](https://www.tatianaxavier.com)
+For more informations, check contents, tutorials, how-to detailed in the link [tatixavier.com.br](https://www.tatianaxavier.com)
